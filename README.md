@@ -99,7 +99,7 @@ https://www.youtube.com/watch?v={video_id}
 
 These 3 files are generated in:
 - Windows: `C:\Users\<name>\.youtube_sm\`.
-- Linux:   `/home/<name>/.cache/youtube_sm/.`.
+- Linux/MacOS:   `/home/<name>/.cache/youtube_sm/.`.
 
 ## HTML & RSS
 With youtube-sm you can recover your subscriptions using two methods:
@@ -127,7 +127,7 @@ is more adapted to recover all the videos of a playlist or to recover its last 3
 - Linux
 - Windows
 - Android (Termux)
-- MacOS (I don't know)
+- MacOS
 
 ## Screenshots
 <p><img src="./images/index.jpg" alt="Phone screen" width=405px height=720px></p>
